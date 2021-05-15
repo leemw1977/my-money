@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>My.Money.Logic</RootNamespace>
+    <AssemblyName>My.Money.Logic</AssemblyName>
+  </PropertyGroup>
+
+</Project>
